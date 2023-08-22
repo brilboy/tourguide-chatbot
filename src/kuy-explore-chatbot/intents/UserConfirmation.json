@@ -1,0 +1,46 @@
+{
+  "id": "1f3f9f5e-dcc7-4411-99c8-eefdf14d00ee",
+  "name": "UserConfirmation",
+  "auto": true,
+  "contexts": [
+    "confirmation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "confirmation",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To finalize your booking, kindly share your name and email address so I can forward you the summary.",
+            "For us to finish your booking process, could you give us your name and email address? This way, I can send you a summary.",
+            "To wrap up your booking order, we\u0027d appreciate it if you could provide your name and email address. This will allow us to send you the summary.",
+            "In order to conclude your booking, we require your name and email address. This will enable us to send you a summary",
+            "To finish your booking, we need your name and email address. This information will help us send you the summary."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

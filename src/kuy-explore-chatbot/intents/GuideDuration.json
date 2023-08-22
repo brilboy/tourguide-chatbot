@@ -1,0 +1,88 @@
+{
+  "id": "bed1728d-a6d3-4614-8c2e-cd172ad3e621",
+  "name": "GuideDuration",
+  "auto": true,
+  "contexts": [
+    "booking-context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "confirmation",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "131d44b2-f1a6-4bb3-b0db-344dbe2c5b09",
+          "name": "duration",
+          "required": true,
+          "dataType": "@sys.duration",
+          "value": "$duration",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Pardon, how long is the expected duration of the tour? (In day(s))"
+            },
+            {
+              "lang": "en",
+              "value": "Sorry, what is the estimated duration of the tour? (In day(s))"
+            },
+            {
+              "lang": "en",
+              "value": "Please specify the duration of the tour in day(s)."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "999e4126-734a-4919-98f9-7c13f574e5ca",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Got it! To finalize your booking, kindly share your name and email address so I can forward you the summary.",
+            "Perfect! For us to finish your booking process, could you give us your name and email address? This way, I can send you a summary.",
+            "Sure thing! To wrap up your booking order, we\u0027d appreciate it if you could provide your name and email address. This will allow us to send you the summary.",
+            "Understood. In order to conclude your booking, we require your name and email address. This will enable us to send you a summary.",
+            "Great! To finish your booking, we need your name and email address. This information will help us send you the summary."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

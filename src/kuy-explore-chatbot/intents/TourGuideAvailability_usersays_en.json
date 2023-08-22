@@ -1,0 +1,398 @@
+[
+  {
+    "id": "4a63aac3-2a11-45b9-84d6-9e8f5f59c25d",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "9 - 18 june 2060",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b03a9413-d638-4294-901a-334667b3b9f6",
+    "data": [
+      {
+        "text": "from ",
+        "userDefined": false
+      },
+      {
+        "text": "9-18 june 2060",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0414d190-2514-4dbf-a4c9-476f126db263",
+    "data": [
+      {
+        "text": "I\u0027d to hire a tour guide on ",
+        "userDefined": false
+      },
+      {
+        "text": "13 February 2030",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fc10d70-07fc-434a-919a-db5ed2391a68",
+    "data": [
+      {
+        "text": "May 10 2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dad4fe63-1eb0-429d-a8bd-e48d5051c13a",
+    "data": [
+      {
+        "text": "20 August 2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2c00678-e0a6-4f53-b481-0359ac1c2d47",
+    "data": [
+      {
+        "text": "For this ",
+        "userDefined": false
+      },
+      {
+        "text": "weekend",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ba5eb0-19cb-4b24-b5f1-408c0461654f",
+    "data": [
+      {
+        "text": "For ",
+        "userDefined": false
+      },
+      {
+        "text": "9 April 2035",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7576ba7e-1e64-4a3b-b3e1-b2a4dc4e70b8",
+    "data": [
+      {
+        "text": "I want it for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "831461d0-7c7e-44c5-a36a-5b0b0a451c9d",
+    "data": [
+      {
+        "text": "I need it ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e41f931-c43d-43b3-a6a5-f12e07ee55b9",
+    "data": [
+      {
+        "text": "From 3 March to 11 march 2024",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b76df0dc-c1dd-4a3d-90d8-320e0c0fa364",
+    "data": [
+      {
+        "text": "I\u0027d to hire a tour guide ",
+        "userDefined": false
+      },
+      {
+        "text": "from 9 to 13 February 2030",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8da0bf2-be04-4a84-9eab-f3cdd1d8a4a4",
+    "data": [
+      {
+        "text": "I require a guide ",
+        "userDefined": false
+      },
+      {
+        "text": "now",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7018f8a-d764-4f6b-9a67-53cfed9be38b",
+    "data": [
+      {
+        "text": "My tour requires a guide ",
+        "userDefined": false
+      },
+      {
+        "text": "from 2 August 2029 until August 5, 2029",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a28c327-0d80-4bdc-b495-bc86710959a5",
+    "data": [
+      {
+        "text": "I need a guide ",
+        "userDefined": false
+      },
+      {
+        "text": "from April 21 2029 to April 27 2029",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f188aa6-b0a1-4622-96a2-6fcf9e5398a2",
+    "data": [
+      {
+        "text": "Is there availability for guides on ",
+        "userDefined": false
+      },
+      {
+        "text": "1 January 2026",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60a1e122-fdfb-4c49-9956-10dad65b536b",
+    "data": [
+      {
+        "text": "Do you have one guide for ",
+        "userDefined": false
+      },
+      {
+        "text": "this week",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3824c9d4-d299-469f-9f6d-3a2314f0b3f7",
+    "data": [
+      {
+        "text": "Is there a guide free for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab56b1fa-f7e5-44c5-8205-27610f87d0d5",
+    "data": [
+      {
+        "text": "What guide do you have available on ",
+        "userDefined": false
+      },
+      {
+        "text": "2025 June 7",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4aa23a9d-10db-409f-9b8d-65b302bec3a0",
+    "data": [
+      {
+        "text": "Can I find a guide for ",
+        "userDefined": false
+      },
+      {
+        "text": "July 6 2024",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "344e4cfc-a533-4d38-a806-b5f3e5a55072",
+    "data": [
+      {
+        "text": "Is there any guide available ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

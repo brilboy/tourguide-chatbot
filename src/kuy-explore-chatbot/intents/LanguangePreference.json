@@ -1,0 +1,84 @@
+{
+  "id": "4fbb3603-b6fd-415c-b68b-f2238cc2292a",
+  "name": "LanguangePreference",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "booking-context",
+          "lifespan": 5
+        },
+        {
+          "name": "language-update-context",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "05825329-20a0-498a-83de-e8f09aa457c9",
+          "name": "preferredLanguage",
+          "required": true,
+          "dataType": "@language",
+          "value": "$preferredLanguage",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What language would you like the guide to speak?"
+            },
+            {
+              "lang": "en",
+              "value": "Could you let me know which language you prefer for the guide?"
+            },
+            {
+              "lang": "en",
+              "value": "Please tell me the language you would like the guide to speak."
+            },
+            {
+              "lang": "en",
+              "value": "Which language ability are you looking for in the guide?"
+            },
+            {
+              "lang": "en",
+              "value": "What language do you want the guide to communicate in?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Got it! When do you plan to schedule your tour?",
+            "Understood! When are you looking to book your tour?",
+            "Excellent! When is your preferred date for the tour?",
+            "Sure thing. When would you like to arrange the tour?",
+            "When would you like to arrange the tour?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

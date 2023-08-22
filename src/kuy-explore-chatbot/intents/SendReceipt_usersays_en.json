@@ -1,0 +1,296 @@
+[
+  {
+    "id": "188e817d-4724-4130-9740-7f83f96ea85e",
+    "data": [
+      {
+        "text": "You can call me ",
+        "userDefined": false
+      },
+      {
+        "text": "John Smith",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": ", and my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "john@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6a4be2d-4ba2-4a5e-8c84-c0857e2f38b3",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Alex Brown",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": ", and my email address is ",
+        "userDefined": false
+      },
+      {
+        "text": "alex@example.org",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40c4b837-2ca9-4339-9f38-e397351eb7d7",
+    "data": [
+      {
+        "text": "I\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "Rachel Johnson",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": ", and here\u0027s my email: ",
+        "userDefined": false
+      },
+      {
+        "text": "rachel@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ffb50425-a1f7-4269-b65a-d171a9d879e8",
+    "data": [
+      {
+        "text": "Name\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Michael Lee",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": ", and my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "michael@emailservice.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30b0b90a-8602-4275-8b0f-5501ba92bc9b",
+    "data": [
+      {
+        "text": "contact me at ",
+        "userDefined": false
+      },
+      {
+        "text": "jessica@email.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68b3ad21-5a1b-46fd-88c9-558c93820742",
+    "data": [
+      {
+        "text": "you can reach me at ",
+        "userDefined": false
+      },
+      {
+        "text": "sarah@example.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82f00eac-fa2e-4ffb-aa46-143747037b7c",
+    "data": [
+      {
+        "text": "you can call me ",
+        "userDefined": false
+      },
+      {
+        "text": "michael muhammad",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31011aa2-f7f7-4e30-abfc-d388839c1945",
+    "data": [
+      {
+        "text": "i go by ",
+        "userDefined": false
+      },
+      {
+        "text": "david anderson",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fad21d4-5876-47cc-b123-06dd9fc7e0dc",
+    "data": [
+      {
+        "text": "here\u0027s my email ",
+        "userDefined": false
+      },
+      {
+        "text": "sample@yahoo.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02e3ecdd-7ed0-44ca-b84c-b4a60c605fdc",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "asus sample",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45127a71-4fab-483a-82ef-c3f14b96902a",
+    "data": [
+      {
+        "text": "i\u0027m ",
+        "userDefined": false
+      },
+      {
+        "text": "sample name",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4db5595-d224-4887-8948-4bc0d016429c",
+    "data": [
+      {
+        "text": "name: ",
+        "userDefined": false
+      },
+      {
+        "text": "sample name",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": true
+      },
+      {
+        "text": " email: ",
+        "userDefined": false
+      },
+      {
+        "text": "example@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

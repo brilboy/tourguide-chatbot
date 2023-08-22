@@ -1,0 +1,74 @@
+[
+  {
+    "id": "19b3e3ea-3477-4f92-a9dc-aebfc03a04a2",
+    "data": [
+      {
+        "text": "for ",
+        "userDefined": false
+      },
+      {
+        "text": "10 hours",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acd4f0f0-87b6-4076-bbf0-2ddd77e1d5db",
+    "data": [
+      {
+        "text": "only for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74147e50-efec-4d89-be81-af34c17d90a6",
+    "data": [
+      {
+        "text": "just for ",
+        "userDefined": false
+      },
+      {
+        "text": "1 day",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "435fccdb-85c4-4df9-91eb-4d5f535f4c7e",
+    "data": [
+      {
+        "text": "10 days",
+        "meta": "@sys.duration",
+        "alias": "duration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

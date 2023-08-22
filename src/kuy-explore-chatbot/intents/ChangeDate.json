@@ -1,0 +1,104 @@
+{
+  "id": "7c8e54b4-32bc-4eaf-b399-ad53cac98193",
+  "name": "ChangeDate",
+  "auto": true,
+  "contexts": [
+    "date-update-context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "booking-context",
+          "lifespan": 5
+        },
+        {
+          "name": "date-update-context",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e464ccca-0a85-4728-990a-9fb9d713dfc4",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Yes, please mention your new booking date by saying \"Change to [your new date]\""
+            },
+            {
+              "lang": "en",
+              "value": "Sure, go ahead and let me know your updated booking date with \"Change to [your new date]\""
+            },
+            {
+              "lang": "en",
+              "value": "Absolutely, feel free to inform us of your new booking date using the phrase \"Change to [your new date]\""
+            },
+            {
+              "lang": "en",
+              "value": "Of course, please share your revised booking date by saying \"Change to [your new date]\""
+            },
+            {
+              "lang": "en",
+              "value": "Certainly, you can specify your new booking date by using the phrase \"Change to [your new date]\""
+            },
+            {
+              "lang": "en",
+              "value": "Certainly, just tell us your adjusted booking date with \"Change to [your new date]\""
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b4cbf808-3a02-47f6-b506-401230c81415",
+          "name": "changeintention",
+          "required": false,
+          "dataType": "@ChangeIntention",
+          "value": "$changeintention",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, your booking date has changed to $date.original. How long is the expected duration of the tour? (in day(s))",
+            "Okay, I\u0027ve updated your booking date to $date.original. What is the estimated duration of the tour? (in day(s))",
+            "Got it, your reservation date is now set for $date.original. Can you tell me the approximate length of the tour? (in day(s))",
+            "Understood, I\u0027ve modified your booking date to $date.original. What\u0027s the expected duration of the tour in day(s)?",
+            "Noted, your new booking date is $date.original. How many days does the tour typically take?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

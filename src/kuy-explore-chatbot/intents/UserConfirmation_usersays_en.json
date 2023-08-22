@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2415e92b-2532-4d7c-a64f-67299ed29f8a",
+    "data": [
+      {
+        "text": "all clear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89622538-c5c1-420e-912a-e0c10142b111",
+    "data": [
+      {
+        "text": "nope",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f4c2cdd-ad6b-4685-be92-734fc25ff76e",
+    "data": [
+      {
+        "text": "please continue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23d842b9-0b88-487f-b858-2ffefd2031a3",
+    "data": [
+      {
+        "text": "no, please go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ace41be1-a70b-4bb3-bb67-f4c6a54cd39e",
+    "data": [
+      {
+        "text": "please go ahead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

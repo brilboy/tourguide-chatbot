@@ -1,0 +1,101 @@
+{
+  "id": "ec0db8fb-62d5-421c-9020-9c8cb40b31dc",
+  "name": "SendReceipt",
+  "auto": true,
+  "contexts": [
+    "confirmation"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "confirmation",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8d773504-ff6d-4f0d-aa3a-6a37063d0a1e",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "To send your summary order, what is your email?"
+            },
+            {
+              "lang": "en",
+              "value": "To confirm your booking, we\u0027ll need your email. What is it?"
+            },
+            {
+              "lang": "en",
+              "value": "Please provide your email so we can send you the booking."
+            },
+            {
+              "lang": "en",
+              "value": "To complete your booking, kindly share your email address."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "42b14d52-30be-4dd7-a0e8-b13b3e00de2a",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know your name, please?"
+            },
+            {
+              "lang": "en",
+              "value": "What should I call you? Your name, please."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks for choosing our services. Your booking summary and payment information will be sent to your email within the next 24 hours. Have a fantastic day and make the most of your Bali adventure!",
+            "Thank you for entrusting us with your booking. Look out for your booking summary and payment particulars in your email within the next 24 hours. Wishing you a fantastic day and an amazing Bali experience!",
+            "We appreciate your booking. You can expect to receive your booking summary and payment details in your inbox within the next 24 hours. Wishing you a wonderful day and an enjoyable Bali experience!",
+            "Your order is greatly appreciated. You\u0027ll receive your booking summary and payment details via email within the next 24 hours. We hope you have a delightful day and a fantastic time exploring Bali!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

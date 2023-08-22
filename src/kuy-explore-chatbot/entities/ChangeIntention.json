@@ -1,0 +1,9 @@
+{
+  "id": "32ebaf91-79a6-42d6-ad94-7930e026ca3c",
+  "name": "ChangeIntention",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

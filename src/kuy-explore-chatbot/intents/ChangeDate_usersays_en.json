@@ -1,0 +1,395 @@
+[
+  {
+    "id": "3b2f5e01-73ef-49b5-9b82-0613bb66b8a8",
+    "data": [
+      {
+        "text": "Please ",
+        "userDefined": false
+      },
+      {
+        "text": "shift",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": true
+      },
+      {
+        "text": " it to the date ",
+        "userDefined": false
+      },
+      {
+        "text": "November 10, 2023",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "263fb2fd-be42-4eac-8afd-7dff5351264e",
+    "data": [
+      {
+        "text": "Kindly ",
+        "userDefined": false
+      },
+      {
+        "text": "update",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " it to ",
+        "userDefined": false
+      },
+      {
+        "text": "November 10th, 2023",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e75f92a-325f-421b-ab11-6775042a60bc",
+    "data": [
+      {
+        "text": "Can we ",
+        "userDefined": false
+      },
+      {
+        "text": "adjust",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": true
+      },
+      {
+        "text": " it to ",
+        "userDefined": false
+      },
+      {
+        "text": "November 10, 2023",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "69adfddf-833c-4a69-86a0-2281e7c51974",
+    "data": [
+      {
+        "text": "I\u0027d like to ",
+        "userDefined": false
+      },
+      {
+        "text": "reschedule",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": true
+      },
+      {
+        "text": " it for the ",
+        "userDefined": false
+      },
+      {
+        "text": "10th of December 2023",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "010d4da6-65ea-40a2-9c6b-b00342309457",
+    "data": [
+      {
+        "text": "Could you ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " it to ",
+        "userDefined": false
+      },
+      {
+        "text": "November 20th, 2023",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ", please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "294418bd-c5ed-448d-a1a8-5e5e663fff50",
+    "data": [
+      {
+        "text": "I\u0027d like to make a date ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": ". Is that an option for this booking?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc26a436-144c-4b26-b179-93be91dcdd82",
+    "data": [
+      {
+        "text": "I\u0027ve had a ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " in my schedule. Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "reschedule",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": true
+      },
+      {
+        "text": " the booking date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fa6b69c-a1a0-4551-a0ea-206f652bd32e",
+    "data": [
+      {
+        "text": "I\u0027ve had a ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " of plans. Is there flexibility to ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " the booking date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da3ebfd6-1262-4d68-9ae2-cb75e4540195",
+    "data": [
+      {
+        "text": "I\u0027ve reconsidered. Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "modify",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " the reservation date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32d331b7-c5b4-4d6e-b6f8-ba57109ca79d",
+    "data": [
+      {
+        "text": "I\u0027ve had a ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " of heart. Is it possible to adjust the booking date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fa03faa-61eb-4127-bc4d-4207c799f0d3",
+    "data": [
+      {
+        "text": "Please ",
+        "userDefined": false
+      },
+      {
+        "text": "modify",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": true
+      },
+      {
+        "text": " it to ",
+        "userDefined": false
+      },
+      {
+        "text": "10 November 2023",
+        "meta": "@sys.date-time",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf84e00d-4ff5-4f32-97dd-885bc56929c6",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " my tour date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c392788f-3058-4b68-a986-f5614bd06c1d",
+    "data": [
+      {
+        "text": "I ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": false
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "mind",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I ",
+        "userDefined": false
+      },
+      {
+        "text": "change",
+        "meta": "@ChangeIntention",
+        "alias": "changeintention",
+        "userDefined": true
+      },
+      {
+        "text": " the booking date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

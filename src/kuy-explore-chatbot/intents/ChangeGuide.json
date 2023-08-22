@@ -1,0 +1,100 @@
+{
+  "id": "c90ed6d6-efea-4658-a596-95fee64d5fa8",
+  "name": "ChangeGuide",
+  "auto": true,
+  "contexts": [
+    "language-update-context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "language-update-context",
+          "lifespan": 5
+        },
+        {
+          "name": "booking-context",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c3ea2bf4-c91f-4129-8b26-a8840a61d0a9",
+          "name": "changeintention",
+          "required": false,
+          "dataType": "@ChangeIntention",
+          "value": "$changeintention",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d270598b-2428-4246-885f-0377f7d07c0e",
+          "name": "languagePreference",
+          "required": true,
+          "dataType": "@language",
+          "value": "$languagePreference",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What language should your new guide be fluent in?"
+            },
+            {
+              "lang": "en",
+              "value": "In which language would you like your new guide to communicate?"
+            },
+            {
+              "lang": "en",
+              "value": "Which language preference do you have for your new guide?"
+            },
+            {
+              "lang": "en",
+              "value": "For your new guide, which language would you prefer?"
+            },
+            {
+              "lang": "en",
+              "value": "What language skills should your new guide possess?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright, I\u0027ve changed your guide to $languagePreference.original. If there are any other language or date-related matters you\u0027d like to address, please inform me.",
+            "Okay, I\u0027ve updated your guide to $languagePreference. Is there anything else related to language or date you\u0027d like to address?",
+            "Understood, I\u0027ve switched your guide to $languagePreference. If there\u0027s anything else you\u0027d like to discuss regarding language or date, feel free to let me know.",
+            "Got it, your guide has been changed to $languagePreference. In terms of language or date, is there anything else you\u0027d like to inquire about?",
+            "Noted, your guide is now set to $languagePreference. If you have any other questions or concerns related to language or date, please don\u0027t hesitate to ask."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

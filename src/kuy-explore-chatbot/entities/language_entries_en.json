@@ -1,0 +1,79 @@
+[
+  {
+    "value": "English",
+    "synonyms": [
+      "English",
+      "Eng",
+      "EN",
+      "Inglés",
+      "Anglais",
+      "Englisch",
+      "english",
+      "eng",
+      "en"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "Chinese",
+      "中文",
+      "汉语",
+      "中國話",
+      "Chinois",
+      "Chinesisch",
+      "Mandarin",
+      "chinese",
+      "cn",
+      "mandarin"
+    ]
+  },
+  {
+    "value": "Korean",
+    "synonyms": [
+      "Korean",
+      "한국어",
+      "한국말",
+      "Hangul",
+      "조선말",
+      "코리안",
+      "Coréen",
+      "Koreanisch",
+      "korean",
+      "kr",
+      "hangul"
+    ]
+  },
+  {
+    "value": "Japanese",
+    "synonyms": [
+      "Japanese",
+      "日本語",
+      "にほんご",
+      "Nihongo",
+      "Japonais",
+      "Japanisch",
+      "japanese",
+      "nihongo",
+      "jp"
+    ]
+  },
+  {
+    "value": "Indonesia",
+    "synonyms": [
+      "Indonesia",
+      "Bahasa",
+      "Bahasa Indonesia",
+      "Idn",
+      "Ina",
+      "Indo",
+      "Indon",
+      "indonesia",
+      "indo",
+      "indon",
+      "bahasa",
+      "bahasa indo",
+      "bindo"
+    ]
+  }
+]

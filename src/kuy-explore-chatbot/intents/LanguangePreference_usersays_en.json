@@ -1,0 +1,472 @@
+[
+  {
+    "id": "b3761f3b-2c7f-4c14-895c-8dd1aa623a5f",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "korean",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": " spoken guide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba294a1c-093c-46cd-8e51-9c3ec3b43d6d",
+    "data": [
+      {
+        "text": "i want to book a guide who fluent in ",
+        "userDefined": false
+      },
+      {
+        "text": "japanese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "608a3e22-c7e3-4745-94f3-813cce549c44",
+    "data": [
+      {
+        "text": "Find a guide who speaks ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "408d4818-13a5-4053-9922-bfb761767af1",
+    "data": [
+      {
+        "text": "I need a guide who can communicate in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f82a377-35b7-4a0c-909d-c747372953e9",
+    "data": [
+      {
+        "text": "Can you help me find an ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e030dd-7e9e-49dc-be58-62e956489418",
+    "data": [
+      {
+        "text": "Chinese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f73417ee-7ce0-4ff6-9906-a734c1c6bc08",
+    "data": [
+      {
+        "text": "Guide who can speak ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ee5d957-aa04-447b-8989-331ebec78362",
+    "data": [
+      {
+        "text": "Guide who can speak ",
+        "userDefined": false
+      },
+      {
+        "text": "Japanese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea0d7293-5dfb-445f-abc1-2e3c96d5aa1c",
+    "data": [
+      {
+        "text": "Japanese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e815f39b-c3cb-47c1-aa95-cb79150ce1c3",
+    "data": [
+      {
+        "text": "Can you help me find an ",
+        "userDefined": false
+      },
+      {
+        "text": "Japanese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09b6fdc8-a49d-4da0-84d6-f6a4f493d4d3",
+    "data": [
+      {
+        "text": "I need a guide who can communicate in ",
+        "userDefined": false
+      },
+      {
+        "text": "Japanese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c34192a7-231f-45df-8977-dd70355e5f39",
+    "data": [
+      {
+        "text": "Find a guide who speaks ",
+        "userDefined": false
+      },
+      {
+        "text": "Japanese",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "475f4681-560f-4fb9-a595-6ede989108c3",
+    "data": [
+      {
+        "text": "Find a guide who speaks ",
+        "userDefined": false
+      },
+      {
+        "text": "Korean",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a42c718d-d249-476c-ac55-88657e12437d",
+    "data": [
+      {
+        "text": "I need a guide who can communicate in ",
+        "userDefined": false
+      },
+      {
+        "text": "Korean",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77adf5cc-69d8-4d72-9705-36159592c928",
+    "data": [
+      {
+        "text": "Can you help me find an ",
+        "userDefined": false
+      },
+      {
+        "text": "Korean",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10b09563-420c-43c5-aebd-8409c998e813",
+    "data": [
+      {
+        "text": "Korean",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      },
+      {
+        "text": "-speaking guide, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eda65420-419d-4dcc-8dec-cf54b7f860fe",
+    "data": [
+      {
+        "text": "Guide who can speak ",
+        "userDefined": false
+      },
+      {
+        "text": "Korean",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c950677f-fbe1-439e-8f98-2d2afb3e1d29",
+    "data": [
+      {
+        "text": "Guide who can speak ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a56c4a31-02e8-4f04-94c2-f6005e4f1749",
+    "data": [
+      {
+        "text": "English",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide, please.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7064eab3-0fff-4b9a-b8e0-a19b109a8432",
+    "data": [
+      {
+        "text": "Can you help me find an ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": "-speaking guide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d96ea50-f197-4c7f-940c-c46873db2547",
+    "data": [
+      {
+        "text": "I need a guide who can communicate in ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14b5b84e-192b-4595-b0d2-aeba81eaca42",
+    "data": [
+      {
+        "text": "Find a guide who speaks ",
+        "userDefined": false
+      },
+      {
+        "text": "English",
+        "meta": "@language",
+        "alias": "preferredLanguage",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

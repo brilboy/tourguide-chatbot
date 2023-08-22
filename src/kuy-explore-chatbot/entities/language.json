@@ -1,0 +1,9 @@
+{
+  "id": "1c7c15b8-2229-4eb0-8c2d-40628264f78f",
+  "name": "language",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

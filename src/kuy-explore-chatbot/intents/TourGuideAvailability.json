@@ -1,0 +1,99 @@
+{
+  "id": "27d7faeb-50dd-4a15-989f-061491f60eb2",
+  "name": "TourGuideAvailability",
+  "auto": true,
+  "contexts": [
+    "booking-context"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "booking-context",
+          "lifespan": 5
+        },
+        {
+          "name": "date-update-context",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "86344a75-7049-4f69-b892-3d56867bd438",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "eb19f77f-74ea-444e-8bc4-e51d5e009bdf",
+          "name": "date",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$date",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "When is the starting date?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "097dca5a-8d61-4d5b-b4a3-87b9aea87c3e",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We have guides available on $date.original. How long is the expected duration of the tour? (in day(s))",
+            "Sure, we can help you find guides for $date.original. What is the estimated duration of the tour? (in day(s))",
+            "Indeed, we have guide availability for $date.original. What is the estimated duration of the tour? (in day(s))",
+            "Yes, we have guides ready for $date.original. How long is the expected duration of the tour? (in day(s))",
+            "Absolutely! Guides are available for $date.original. How long is the expected duration of the tour? (in day(s))",
+            "Sure, we can help you find guides $date.original. Please specify the duration of the tour in day(s)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

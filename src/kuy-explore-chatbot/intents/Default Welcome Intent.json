@@ -1,0 +1,43 @@
+{
+  "id": "2494aff2-29e6-4741-a9ea-8c6434adc85d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello! Ready to discover Bali with a guide? I\u0027m here to assist you in booking local guides who are fluent in English, Bahasa, Chinese, Korean, or Japanese!",
+            "Hey there! Interested in exploring Bali with a guide? I\u0027m here to make it easy for you to book local guides who speak English, Bahasa, Chinese, Korean, or Japanese!",
+            "Good day! Seeking a tour guide in Bali? I\u0027m here to facilitate booking local guides who are skilled in English, Bahasa, Chinese, Korean, or Japanese languages!",
+            "Hi! I\u0027m here to manage the booking of local guides who are well-versed in English, Bahasa, Chinese, Korean, or Japanese languages!",
+            "Greetings! Eager to uncover Bali with a guide? I\u0027m here to streamline the process of booking local guides who are proficient in English, Bahasa, Chinese, Korean, or Japanese!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

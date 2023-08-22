@@ -1,0 +1,75 @@
+[
+  {
+    "value": "change",
+    "synonyms": [
+      "change"
+    ]
+  },
+  {
+    "value": "modify",
+    "synonyms": [
+      "modify"
+    ]
+  },
+  {
+    "value": "update",
+    "synonyms": [
+      "update"
+    ]
+  },
+  {
+    "value": "revise",
+    "synonyms": [
+      "revise"
+    ]
+  },
+  {
+    "value": "correction",
+    "synonyms": [
+      "correction",
+      "correct"
+    ]
+  },
+  {
+    "value": "Reschedule",
+    "synonyms": [
+      "Reschedule"
+    ]
+  },
+  {
+    "value": "adjust",
+    "synonyms": [
+      "adjust"
+    ]
+  },
+  {
+    "value": "shift",
+    "synonyms": [
+      "shift"
+    ]
+  },
+  {
+    "value": "switch",
+    "synonyms": [
+      "switch"
+    ]
+  },
+  {
+    "value": "prefer",
+    "synonyms": [
+      "prefer"
+    ]
+  },
+  {
+    "value": "make",
+    "synonyms": [
+      "make"
+    ]
+  },
+  {
+    "value": "convert",
+    "synonyms": [
+      "convert"
+    ]
+  }
+]
