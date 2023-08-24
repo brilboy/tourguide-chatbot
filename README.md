@@ -36,7 +36,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone `https://github.com/brilboy/tourguide-chatbot.git`
+   git clone https://github.com/brilboy/tourguide-chatbot.git
 2. Set up the required dependencies as mentioned in the project documentation.
 3. Configure Dialogflow, FastAPI, MySQL, and ChatGPT to match your project's settings.
 4. Deploy the chatbot and landing page to your desired hosting platform.
