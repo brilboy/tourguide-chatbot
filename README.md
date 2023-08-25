@@ -16,7 +16,7 @@ The Tour & Travel Chatbot is designed to assist tourists in hiring tour guides f
 
 To utilize the Tour & Travel Chatbot, follow these steps:
 
-1. Visit the Landing Page (Link to be Updated).
+1. Visit the [Landing Page](http://kuy-exprole.rf.gd/).
 2. Start a conversation with the chatbot to inquire about tour guide availability, pricing, and more.
 3. Enjoy a hassle-free experience in booking a tour guide for your Bali adventure.
 

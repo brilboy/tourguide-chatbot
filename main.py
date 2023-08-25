@@ -197,7 +197,7 @@ def insert_user_interaction(parameters):
         if "user_id" in parameters:
             user_id = int(parameters["user_id"])
         else:
-            user_id = int(uuid.uuid4()) 
+            user_id = random.randint(1, 10000) 
 
     except Exception as e:
         # Handle exceptions gracefully
